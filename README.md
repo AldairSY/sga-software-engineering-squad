@@ -10,8 +10,8 @@ El equipo Software Engineering Squad tiene el entorno Django configurado, el rep
 |---------------|------------|-------------|
 | Product Owner | Nombre | @usuario |
 | Scrum Master | Nombre | @usuario |
-| Backend Dev | Nombre | @usuario |
-| Frontend Dev | Nombre | @usuario |
+| Backend Dev | Nombre  | @usuario |
+| Frontend Dev | HinostrozaDaniel | @usuario |
 | QA / DevOps | Nombre | @usuario |
 
 ## Stack Tecnológico
